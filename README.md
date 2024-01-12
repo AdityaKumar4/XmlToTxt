@@ -7,9 +7,9 @@ Works well with directories and subdirectories.
 sudo pip install -r requirements.txt
 ```
 ### Usage
-
+Add you object class to the classes.txt file.
 ```bash
-python xmltotxt.py -c cls.txt -xml xml -out out
+python xmltotxt.py -c classes.txt -xml xml -out out
 ```
 #### Mandatory arguments
 
